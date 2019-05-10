@@ -1,0 +1,20 @@
+{
+    "name": "zhangran/getfilekeyvaluepairs",
+    "require": {
+        "php": ">=5.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zhang Ran",
+            "email": "zhangran@fxqifu.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Utils\\": "Utils/"
+        }
+    }
+
+}
